@@ -1,0 +1,30 @@
+.round-checkbox-label {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  margin: 15px;
+}
+
+.round-checkbox-input {
+  display: none;
+}
+
+.round-checkbox-custom {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px; /* Set the width and height for the round checkbox */
+  height: 20px;
+  border: 2px solid #333; /* Border color */
+  border-radius: 50%; /* Make it round */
+  background-color: white; /* Background color */
+}
+
+.round-checkbox-input:checked + .round-checkbox-custom {
+  background-color: #4caf50; /* Change background color when checked */
+  border-color: #4caf50; /* Change border color when checked */
+}
+
+.label {
+  margin: 40px;
+}

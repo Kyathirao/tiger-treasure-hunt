@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tiger-treasure-hunt/static/css/main.b380ba96.css",
-    "main.js": "/tiger-treasure-hunt/static/js/main.14df20a7.js",
+    "main.css": "/tiger-treasure-hunt/static/css/main.bb51de37.css",
+    "main.js": "/tiger-treasure-hunt/static/js/main.08f03fd7.js",
     "static/js/787.28cb0dcd.chunk.js": "/tiger-treasure-hunt/static/js/787.28cb0dcd.chunk.js",
     "static/media/treasurehunt.jpg": "/tiger-treasure-hunt/static/media/treasurehunt.819526f665b78ad3ad0d.jpg",
     "index.html": "/tiger-treasure-hunt/index.html",
-    "main.b380ba96.css.map": "/tiger-treasure-hunt/static/css/main.b380ba96.css.map",
-    "main.14df20a7.js.map": "/tiger-treasure-hunt/static/js/main.14df20a7.js.map",
+    "main.bb51de37.css.map": "/tiger-treasure-hunt/static/css/main.bb51de37.css.map",
+    "main.08f03fd7.js.map": "/tiger-treasure-hunt/static/js/main.08f03fd7.js.map",
     "787.28cb0dcd.chunk.js.map": "/tiger-treasure-hunt/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b380ba96.css",
-    "static/js/main.14df20a7.js"
+    "static/css/main.bb51de37.css",
+    "static/js/main.08f03fd7.js"
   ]
 }

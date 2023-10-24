@@ -67,7 +67,6 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    npm install
    ```
-3.  <a href="https://kyathirao.github.io/tiger-treasure-hunt/">Play Tiger Treasure Hunt</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,6 +85,8 @@ To get a local copy up and running follow these simple example steps.
 9. As the team successfully answers the questions and solves the clue, they can move to the next sequential location/clue until they reach the end and win the game!
 10. Watch out! Throughout the game you will randomly be prompted to solve a morse code clue.  Make sure you study up on morse code!!!
 11. Have fun, it's a game!!!!
+
+12.  <a href="https://kyathirao.github.io/tiger-treasure-hunt/">Play Tiger Treasure Hunt</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +140,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Overall we had a good team and were able to work well together to get to the end result.  We ensured we had a regular cadence of meeting every week where we reviewed current progress and discussed any changes we wanted to make based on successes or challenges we encountered.   In the first meeting we collaborated on the concept of the project including potential tools and a game flow.  In addition, we established roles and activities in the first meeting that allowed us to show progress in the following meeting.  We began using GitHub Pages and HTML.  During our 2nd meeting, we decided to use JavaScript to call external public APIs.  All of that worked, but the amount of time required to write all of that was more than we believed it should have been.  Around the 4th meeting it was decided that this would be easier using REACT.  REACT provided us a good bootstrap development environment with which we could provide better formatting and game flow quicker.   Our final game was created!
 
 In reflecting on the project as a whole, again there was great team collaboration, and continuous communication.  Even when we were not doing our weekly standup calls, we communicated via email.  We maintained documentation of the direction of the project including tools selected and game flow as well as types of clues the gamers would need to solve.  There were really no significant problems other than the slight tool direction change we did to use REACT. 
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

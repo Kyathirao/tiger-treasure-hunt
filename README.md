@@ -101,8 +101,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Acknowledgments <a name="acknowledgements"></a>
 
 * [Treasure Hunt Map](https://www.google.com/url?sa=i&url=https%3A%2F%2Fescapetrails.co%2F5-steps-to-making-a-fun-treasure-hunt%2F&psig=AOvVaw1wrdwGNjpaetxlDkIT-lC3&ust=1698077742486000&source=images&cd=vfe&opi=89978449&ved=0CBMQ3YkBahcKEwig8P3WhoqCAxUAAAAAHQAAAAAQBg)
-* []()
-* []()
+* [Random API](https://riddles-api.vercel.app/random)
+* [Congratulations Banner]( https://media.istockphoto.com/id/1368531657/vector/congratulations-colorful-typography-banner.jpg?s=612x612&w=0&k=20&c=wLDsEtMDLracjmXSWOownzagyurdZH-lXlNLmZXWsVM=" )
+* [Riddles APIs](https://riddles-api.vercel.app/random)
+* [Random Word APIs]( https://random-word-api.herokuapp.com/word)
+![image](https://github.com/Kyathirao/tiger-treasure-hunt/assets/144135842/5be5a220-8160-4465-9dc2-b5d7af40c1a1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,7 +136,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- Team Members -->
 ## Team Reflections <a name="reflections"></a>
 
-Write a short reflection (around 500 words) on the design and development process. Discuss challenges faced, what worked, what didn't, and lessons learned
+Overall we had a good team and were able to work well together to get to the end result.  We ensured we had a regular cadence of meeting every week where we reviewed current progress and discussed any changes we wanted to make based on successes or challenges we encountered.   In the first meeting we collaborated on the concept of the project including potential tools and a game flow.  In addition, we established roles and activities in the first meeting that allowed us to show progress in the following meeting.  We began using GitHub Pages and HTML.  During our 2nd meeting, we decided to use JavaScript to call external public APIs.  All of that worked, but the amount of time required to write all of that was more than we believed it should have been.  Around the 4th meeting it was decided that this would be easier using REACT.  REACT provided us a good bootstrap development environment with which we could provide better formatting and game flow quicker.   Our final game was created!
+
+In reflecting on the project as a whole, again there was great team collaboration, and continuous communication.  Even when we were not doing our weekly standup calls, we communicated via email.  We maintained documentation of the direction of the project including tools selected and game flow as well as types of clues the gamers would need to solve.  There were really no significant problems other than the slight tool direction change we did to use REACT. 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

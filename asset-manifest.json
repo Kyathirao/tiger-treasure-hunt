@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/tiger-treasure-hunt/static/css/main.bb51de37.css",
-    "main.js": "/tiger-treasure-hunt/static/js/main.08f03fd7.js",
-    "static/js/787.28cb0dcd.chunk.js": "/tiger-treasure-hunt/static/js/787.28cb0dcd.chunk.js",
+    "main.css": "/tiger-treasure-hunt/static/css/main.36961625.css",
+    "main.js": "/tiger-treasure-hunt/static/js/main.0d568df3.js",
+    "static/js/845.650f01f2.chunk.js": "/tiger-treasure-hunt/static/js/845.650f01f2.chunk.js",
+    "static/media/treasure-hunt.mp4": "/tiger-treasure-hunt/static/media/treasure-hunt.cef36233454047cd46fa.mp4",
+    "static/media/escape.mp4": "/tiger-treasure-hunt/static/media/escape.0db9c0dcc0468446b8ff.mp4",
+    "static/media/mysterious.mp3": "/tiger-treasure-hunt/static/media/mysterious.51dbd624ca735dcfa5da.mp3",
     "static/media/treasurehunt.jpg": "/tiger-treasure-hunt/static/media/treasurehunt.819526f665b78ad3ad0d.jpg",
     "index.html": "/tiger-treasure-hunt/index.html",
-    "main.bb51de37.css.map": "/tiger-treasure-hunt/static/css/main.bb51de37.css.map",
-    "main.08f03fd7.js.map": "/tiger-treasure-hunt/static/js/main.08f03fd7.js.map",
-    "787.28cb0dcd.chunk.js.map": "/tiger-treasure-hunt/static/js/787.28cb0dcd.chunk.js.map"
+    "main.36961625.css.map": "/tiger-treasure-hunt/static/css/main.36961625.css.map",
+    "main.0d568df3.js.map": "/tiger-treasure-hunt/static/js/main.0d568df3.js.map",
+    "845.650f01f2.chunk.js.map": "/tiger-treasure-hunt/static/js/845.650f01f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb51de37.css",
-    "static/js/main.08f03fd7.js"
+    "static/css/main.36961625.css",
+    "static/js/main.0d568df3.js"
   ]
 }

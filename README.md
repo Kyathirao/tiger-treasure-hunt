@@ -11,7 +11,7 @@
     <br />
      SeaFarer's Cipher is a fun team online game where the players join a video conference (e.g., Zoom or Teams) to play a fun question and answer game in order to solve a series of clues that leads the team to a treasure.
     <br />
-    <a href="https://kyathirao.github.io/tiger-treasure-hunt/">Play Tiger Treasure Hunt</a>
+    <a href="https://kyathirao.github.io/tiger-treasure-hunt/">Play SeaFarer's Cipher</a>
   </p>
 </div>
 

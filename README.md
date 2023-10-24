@@ -5,7 +5,7 @@
     <img src="src/treasurehunt.jpg" alt="Logo" width="480" height="270">
   </a>
 
-<h3 align="center">Tiger Treasure Hunt</h3>
+<h3 align="center">SeaFarer's Cipher : The Quest for the Forgotten Empire</h3>
 
   <p align="center">
     <br />
@@ -20,7 +20,7 @@
 <details>
   <summary>Table of Contents</summary> 
   <ol>
-    <li><a href="#about-tiger-treasure-hunt">About Tiger Treasure Hunt</a></li> 
+    <li><a href="#about-SeaFarer's-Cipher">About Tiger Treasure Hunt</a></li> 
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#installation">Installation</a></li>
@@ -34,16 +34,16 @@
 
 
 <!-- ABOUT THE GAME -->
-## About Tiger Treasure Hunt <a name="about-tiger-treasure-hunt"></a>
+## About SeaFarer's Cipher <a name="about-tiger-treasure-hunt"></a>
 
-The Tiger Treasure Hunt is an online game where the players operate as a team to locate the treasure. The Team lead enters all the answers to solve the puzzles that lead to the next adventure.  Throughout the adventure, morse code will be presented for the team to solve – just to add another challenge! After solving each task, the team will earn another clue to find the treasure.  After solving all the puzzles, the team will have uncovered the treasure and is declared the Tiger Treasure Hunt Winners.
+The SeaFarer's Cipher is an online game where the players operate as a team to locate the treasure. The Team lead enters all the answers to solve the puzzles that lead to the next adventure.  Throughout the adventure, morse code will be presented for the team to solve – just to add another challenge! After solving each task, the team will earn another clue to find the treasure.  After solving all the puzzles, the team will have uncovered the treasure and is declared the Cipher Winners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With <a name="built-with"></a>
 
-Tiger Treasure Hunt is written in NPM & REACT and deployed via the [Tiger](https://github.com/kyathirao/TigerTreasure.github.io) Public GitHub Repository using GitHub Pages.  Prototypes were done using standard HTML/Index/CSS and JavaScript to call external public APIs.  In the end it was determined to be easier to use REACT to accomplish the same results.
+SeaFarer's Cipher is written in NPM & REACT and deployed via the [Tiger](https://github.com/kyathirao/TigerTreasure.github.io) Public GitHub Repository using GitHub Pages.  Prototypes were done using standard HTML/Index/CSS and JavaScript to call external public APIs.  In the end it was determined to be easier to use REACT to accomplish the same results.
 
 * [![npm][npm.js]][npm-url]
 * [![React][React.js]][React-url]

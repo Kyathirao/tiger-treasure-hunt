@@ -117,7 +117,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 **Due Date: October 23, 2023**
 
 **Team members:**
-* Kyathi rao  Kantheti - api’s for games and REACT code
+* Kyathi rao  Kantheti - Ideation, api’s for games and REACT code
 * Saideep Chandrashekar Kondur - flow of game, original in design in python and HTML
 * Ken Roulier - GitHub Pages, Repository, prototype HTML, Documentation, Schedule
 

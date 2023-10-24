@@ -103,10 +103,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 * [Treasure Hunt Map](https://www.google.com/url?sa=i&url=https%3A%2F%2Fescapetrails.co%2F5-steps-to-making-a-fun-treasure-hunt%2F&psig=AOvVaw1wrdwGNjpaetxlDkIT-lC3&ust=1698077742486000&source=images&cd=vfe&opi=89978449&ved=0CBMQ3YkBahcKEwig8P3WhoqCAxUAAAAAHQAAAAAQBg)
 * [Random API](https://riddles-api.vercel.app/random)
-* [Congratulations Banner]( https://media.istockphoto.com/id/1368531657/vector/congratulations-colorful-typography-banner.jpg?s=612x612&w=0&k=20&c=wLDsEtMDLracjmXSWOownzagyurdZH-lXlNLmZXWsVM=" )
+* [Congratulations Banner](https://media.istockphoto.com/id/1368531657/vector/congratulations-colorful-typography-banner.jpg?s=612x612&w=0&k=20&c=wLDsEtMDLracjmXSWOownzagyurdZH-lXlNLmZXWsVM=)
 * [Riddles APIs](https://riddles-api.vercel.app/random)
 * [Random Word APIs]( https://random-word-api.herokuapp.com/word)
-![image](https://github.com/Kyathirao/tiger-treasure-hunt/assets/144135842/5be5a220-8160-4465-9dc2-b5d7af40c1a1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

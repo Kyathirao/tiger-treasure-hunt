@@ -5,13 +5,13 @@
     <img src="src/treasurehunt.jpg" alt="Logo" width="480" height="270">
   </a>
 
-<h3 align="center">SeaFarer's Cipher : The Quest for the Forgotten Empire</h3>
+<h3 align="center">Tiger Treasure Hunt</h3>
 
   <p align="center">
     <br />
-     SeaFarer's Cipher is a fun team online game where the players join a video conference (e.g., Zoom or Teams) to play a fun question and answer game in order to solve a series of clues that leads the team to a treasure.
+     Tiger Treasure Hunt is a fun team online game where the players join a video conference (e.g., Zoom or Teams) to play a fun question and answer game in order to solve a series of clues that leads the team to a treasure.
     <br />
-    <a href="https://kyathirao.github.io/tiger-treasure-hunt/">Play SeaFarer's Cipher</a>
+    <a href="https://kyathirao.github.io/tiger-treasure-hunt/">Play Tiger Treasure Hunt</a>
   </p>
 </div>
 
@@ -20,7 +20,7 @@
 <details>
   <summary>Table of Contents</summary> 
   <ol>
-    <li><a href="#about-SeaFarer's-Cipher">About SeaFarer's Cipher</a></li> 
+    <li><a href="#about-SeaFarer's-Cipher">About Tiger Treasure Hunt</a></li> 
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#installation">Installation</a></li>
@@ -34,16 +34,16 @@
 
 
 <!-- ABOUT THE GAME -->
-## About SeaFarer's Cipher <a name="about-tiger-treasure-hunt"></a>
+## About Tiger Treasure Hunt <a name="about-tiger-treasure-hunt"></a>
 
-The SeaFarer's Cipher is an online game where the players operate as a team to locate the treasure. The Team lead enters all the answers to solve the puzzles that lead to the next adventure.  Throughout the adventure, morse code will be presented for the team to solve – just to add another challenge! After solving each task, the team will earn another clue to find the treasure.  After solving all the puzzles, the team will have uncovered the treasure and is declared the Cipher Winners.
+The Tiger Treasure Hunt is an online game where the players operate as a team to locate the treasure. The Team lead enters all the answers to solve the puzzles that lead to the next adventure.  Throughout the adventure, morse code will be presented for the team to solve – just to add another challenge! After solving each task, the team will earn another clue to find the treasure.  After solving all the puzzles, the team will have uncovered the treasure and is declared the Cipher Winners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With <a name="built-with"></a>
 
-SeaFarer's Cipher is written in NPM & REACT and deployed via the [Tiger](https://github.com/kyathirao/TigerTreasure.github.io) Public GitHub Repository using GitHub Pages.  Prototypes were done using standard HTML/Index/CSS and JavaScript to call external public APIs.  In the end it was determined to be easier to use REACT to accomplish the same results.
+Tiger Treasure Hunt is written in NPM & REACT and deployed via the [Tiger](https://github.com/kyathirao/TigerTreasure.github.io) Public GitHub Repository using GitHub Pages.  Prototypes were done using standard HTML/Index/CSS and JavaScript to call external public APIs.  In the end it was determined to be easier to use REACT to accomplish the same results.
 
 * [![npm][npm.js]][npm-url]
 * [![React][React.js]][React-url]
@@ -74,11 +74,11 @@ To get a local copy up and running follow these simple example steps.
 <!-- Game Play Instructions -->
 ## How to Play <a name="howtoplay"></a>
 
-1. Schedule a conference video room  (e.g., Zoom or Teams)  for you and a group of friends to play SeaFarer's Cipher.
+1. Schedule a conference video room  (e.g., Zoom or Teams)  for you and a group of friends to play Tiger Treasure Hunt.
 2. Join the video conference at the scheduled time to play.
 3. The team votes on a Team Leader that will control all of the online play.
 4. With the highly popular and revered Team Leader installed, the Team Leader then shares their screen with the rest of the virtual team.
-5. The Team Leader then launches the SeaFarer's Cipher game by ...
+5. The Team Leader then launches the Tiger Treasure Hunt game by ...
 6. The game begins by showing a series of locations you must visit and answer a question related to our beloved Clemson Tigers
 7. The game only allows the Team Leader to select the next sequential location/clue on the map that is not solved, beginning with clue 1.
 8. Once the clue is selected, a question is prompted for the team to discuss and the Team Leader to answer on behalf of the team.  Don't forget to blame the Team Leader should you get the answer wrong.  After all, they entered the answer.
@@ -86,7 +86,7 @@ To get a local copy up and running follow these simple example steps.
 10. Watch out! Throughout the game you will randomly be prompted to solve a morse code clue.  Make sure you study up on morse code!!!
 11. Have fun, it's a game!!!!
 
-12.  <a href="https://kyathirao.github.io/tiger-treasure-hunt/">Play SeaFarer's Cipher</a>
+12.  <a href="https://kyathirao.github.io/tiger-treasure-hunt/">Play Tiger Treasure Hunt</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
